@@ -1,0 +1,16 @@
+{
+    "name": "yaminconsumer/demo",
+    "description": "Demo",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yaminconsumer\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yamin"
+        }
+    ],
+    "require": {}
+}
