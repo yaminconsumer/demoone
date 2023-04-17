@@ -2,6 +2,7 @@
     "name": "yaminconsumer/demo",
     "description": "Demo",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yaminconsumer\\Demo\\": "src/"
